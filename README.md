@@ -7,8 +7,11 @@ Extra tasks to do
 Make pipe spawn position less drastic as it could be impossible to get to a pipe
 
 Abstract code such as the transition type and also filepaths
+
 Tinker with the frequency of the pipes
+
 Tinker with the speed of the pipes
+
 Perhaps make the pipes speed increase over time
 Delete the pipes when they go off the screen
 Use a better random technique
